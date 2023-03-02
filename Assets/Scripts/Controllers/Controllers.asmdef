@@ -1,0 +1,18 @@
+{
+    "name": "Controllers",
+    "rootNamespace": "abunity.Controllers",
+    "references": [
+        "GUID:c440bde6fc00e7047bf8378058e219d2",
+        "GUID:10ec56f7e1713f04e9ecd27c1fd21fbf",
+        "GUID:830ca98380a0c794dbdd09ed61dd0b84"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

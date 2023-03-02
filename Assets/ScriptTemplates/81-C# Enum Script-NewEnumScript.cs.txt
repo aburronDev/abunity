@@ -1,0 +1,14 @@
+/*#NEW#
+**			Created by #USER# on #DATE#
+**
+**	Shared and licensed under the Attribution-NonCommercial-ShareAlike
+**			4.0 International Creative Commons License
+*/
+
+namespace #NAMESPACE#
+{
+	public enum #SCRIPTNAME#
+	{
+	
+	}
+}

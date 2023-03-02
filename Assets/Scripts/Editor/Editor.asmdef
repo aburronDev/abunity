@@ -1,0 +1,18 @@
+{
+    "name": "Editor",
+    "rootNamespace": "abunity.Editor",
+    "references": [
+        "GUID:c0cb789491bb1b84f9169e5619f2e6c5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

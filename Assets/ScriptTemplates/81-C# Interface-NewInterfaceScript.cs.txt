@@ -1,0 +1,29 @@
+/*#NEW#
+**			Created by #USER# on #DATE#
+**
+**	Shared and licensed under the Attribution-NonCommercial-ShareAlike
+**			4.0 International Creative Commons License
+*/
+
+
+
+namespace #NAMESPACE#
+{
+	public interface #SCRIPTNAME#
+	{
+		/*#####################################################################
+		#############################  PROPERTIES  ############################
+		#####################################################################*/
+		#region Properties
+
+		#endregion
+
+
+		/*#####################################################################
+		##############################  METHODS  ##############################
+		#####################################################################*/
+		#region Methods
+
+		#endregion
+	}
+}
